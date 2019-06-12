@@ -21,12 +21,12 @@ text-align: center;
 
 li {
 
-    display: inline-block;
+   
     text-align: center;
     padding: 10px;
-  
+    display: inline-block;
+    
 
- 
 }
 
 ul {
@@ -34,14 +34,53 @@ ul {
     margin: 0;
     padding: 0;
     color: #000;
-  padding: 8px 16px;
-
-
-  }
+ 
+  
+    padding: 8px 16px;
+}
 
   ul .floatlist {
       float: right;
   }
-  p {
+
+   .center {
       text-align: center;
+      
   }
+
+img {
+
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+
+}
+ 
+
+
+  .searchbar {
+
+    display: inline-block;
+    width: 580px;
+    
+  }
+  h2 {
+color: #0000ff;
+margin-bottom: -10px;
+
+
+  }
+
+  .searchlinks {
+
+    color: #148e14;
+    margin-bottom: -10px;
+    
+  }
+
+  .searchresults {
+
+    margin-bottom: 25px;
+  }
+  
+ 
